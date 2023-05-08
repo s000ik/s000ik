@@ -13,5 +13,4 @@ I'm extremely curious about everything and hellbent on mastering every skill I f
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,py,git,powershell,figma,ps,xd,latex,js,html,css)](https://skillicons.dev)
 
-https://pbs.twimg.com/profile_images/981480573880360961/8LZWAtGG_400x400.jpg
-[![Spotify](https://<vercel-domain>.vercel.app/api/spotify)](https://open.spotify.com/user/31tjxjpdmrrmc2mx4par3zk5ns24)
+
