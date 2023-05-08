@@ -2,6 +2,7 @@
 
 I'm Satwik!
 I'm a UI/UX designer + graphic designer + developer + IT freshman
+
 I'm extremely curious about everything and hellbent on mastering every skill I find cool.
 
 - 🔭 I’m currently working on learning web development to utilise my graphic design and UI/UX expertise.
