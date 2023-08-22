@@ -11,6 +11,6 @@ I'm extremely curious about everything and hellbent on mastering every skill I f
 - ❤️ Things I love: Online scavenger hunts, [Competitve coding](https://www.codechef.com/users/oracle0fdephi), [Designing things](https://www.behance.net/satwikdesigns)
 
 
-![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,py,git,powershell,figma,ps,xd,js,html,css)
+![My Skills](https://skillicons.dev/icons?i=vscode,c,cpp,py,git,powershell,figma,ps,xd,js,html,css,)
 
 
