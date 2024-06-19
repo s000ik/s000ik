@@ -2,7 +2,7 @@
 
 ### I'm a Developer + Designer + IT sophomore
 
-I'm extremely curious about everything and hellbent on mastering every skill I find cool.
+I'm extremely curious about everything and hellbent on mastering every skill I admire.
 
 - 🔭 I’m currently working on my personal landing page
 - 🌱 I’m currently learning web-dev
