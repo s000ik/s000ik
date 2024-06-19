@@ -1,6 +1,6 @@
 ## Hi there, I'm Satwik 👋
 
-### I'm a UI/UX designer + Graphic designer + Developer + IT sophomore
+### I'm a Developer + Designer + IT sophomore
 
 I'm extremely curious about everything and hellbent on mastering every skill I find cool.
 
