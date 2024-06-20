@@ -4,7 +4,7 @@
 
 I'm extremely curious about everything and hellbent on mastering every skill I admire.
 
-- 🔭 I’m currently working on my personal landing page
+- 🔭 I’m currently working on my [personal landing page](https://resume.ssatwik.click)
 - 🌱 I’m currently learning web-dev
 - 💬 Ask me about design or cars (inexplicable obsession im sorry)
 - 📫 How to reach me: [Insta](https://www.instagram.com/shock_train/) or [LinkedIn](https://www.linkedin.com/in/satwik-singh-179a54259/)
