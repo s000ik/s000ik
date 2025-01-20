@@ -7,7 +7,7 @@ I'm extremely curious about everything and hellbent on mastering every skill I a
 - 🔭 I’m currently working on my institute's website.
 - 🌱 I’m currently learning web-dev
 - 💬 Ask me about design or tech or engineering
-- 📫 How to reach me: [Insta](https://www.instagram.com/shock_train/) or [LinkedIn](https://www.linkedin.com/in/satwik-singh-179a54259/)
+- 📫 How to reach me: [Instagram](https://www.instagram.com/shock_train/) or [LinkedIn](https://www.linkedin.com/in/singhsatwik/)
 - ❤️ Things I love: Online scavenger hunts, [Competitve coding](https://www.codechef.com/users/ssatwik), [Designing stuff](https://www.behance.net/satwikdesigns)
 
 
