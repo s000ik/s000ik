@@ -14,3 +14,4 @@ I'm extremely curious about everything and hellbent on mastering every skill I a
 ![My Skills](https://skillicons.dev/icons?i=cpp,py,js,ts,html,css,mongodb,express,react,nextjs,nodejs,tailwind,bootstrap,bash,aws,gcp,terraform,git,powershell,figma,ps,xd&perline=11)
 
 
+  <img src="https://github-readme-stats.vercel.app/api?username=s000ik&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=My%20GitHub%20Stats&rank_icon=github" alt="GitHub Stats" />
