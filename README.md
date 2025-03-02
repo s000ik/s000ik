@@ -4,8 +4,8 @@
 
 I'm extremely curious about everything and hellbent on mastering every skill I admire.
 
-- 🔭 I’m currently working on my institute's website.
-- 🌱 I’m currently learning web-dev
+- 🔭 I’m currently working on [my institute's website](https://iiitbhopal-website.vercel.app/)
+- 🌱 I’m currently learning AI/ML
 - 💬 Ask me about design or tech or engineering
 - 📫 How to reach me: [Instagram](https://www.instagram.com/shock_train/) or [LinkedIn](https://www.linkedin.com/in/singhsatwik/)
 - ❤️ Things I love: Online scavenger hunts, [Competitve coding](https://www.codechef.com/users/ssatwik), [Designing stuff](https://www.behance.net/satwikdesigns)
