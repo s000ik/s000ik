@@ -1,6 +1,6 @@
 ## Hi there, I'm Satwik 👋
 
-### I'm a Developer + Designer + IT sophomore
+### I'm a Developer + Designer + IT undergrad
 
 I'm extremely curious about everything and hellbent on mastering every skill I admire.
 
